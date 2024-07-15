@@ -1,6 +1,6 @@
 # Zheyuan Yang's Home Page
 
-- <img src="Files/selfie2020.jpg" alt="selfie" style="float:right;zoom:7%;margin:100px 300px;"/>I am senior undergraduate student at [Department of Electric Engineering at Tsinghua University](https://www.eea.tsinghua.edu.cn/)
+- <img src="files/selfies.jpg" alt="selfie" style="float:right;zoom:7%;margin:100px 300px;"/>I am senior undergraduate student at [Department of Electric Engineering at Tsinghua University](https://www.eea.tsinghua.edu.cn/)
 - Email: <a href="zy-yang21@mails.tsinghua.edu.cn">zy-yang21@mails.tsinghua.edu.cn</a>
 - Check my [CV](Files/CV.pdf)
 
