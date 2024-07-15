@@ -1,1 +1,1 @@
-# cyberyzy.io
+# cyberyzy.github.io
