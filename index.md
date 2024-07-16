@@ -1,3 +1,14 @@
+<head>
+    <title>Ubuntu Mono 字体示例</title>
+    <!-- 从 Google Fonts 引入 Ubuntu Mono 字体 -->
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
+    <style>
+        /* 将 Ubuntu Mono 字体应用到所有文本 */
+        body {
+            font-family: 'Ubuntu Mono', monospace;
+        }
+    </style>
+</head>
 # Zheyuan Yang's Home Page
 
 - <img src="files/selfies.jpg" alt="selfie" style="float:right;zoom:15%;margin:100px 300px;"/>I am a senior undergraduate student at [Department of Electric Engineering at Tsinghua University](https://www.eea.tsinghua.edu.cn/)
@@ -27,14 +38,3 @@ Besides, I possess a strong aptitude for mathematics and statistics, particularl
 
 - Power system analysis course notes: [Power System Analysis](https://cyberyzy.github.io/PowerSystem/)
 - I built a forum for DEE students: [DEE Forum](https://cyberyzy.github.io/mathwiki/)
-
-  
-<!-- 从 Google Fonts 引入 Ubuntu Mono 字体 -->
-<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
-<style>
-    /* 将 Ubuntu Mono 字体应用到所有文本 */
-    body {
-        font-family: 'Ubuntu Mono', monospace;
-    }
-</style>
-
