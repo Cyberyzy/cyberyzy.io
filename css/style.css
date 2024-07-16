@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+  font-family: 'Ubuntu Mono', sans-serif; /* 使用你喜欢的字体 */
+}
+
+/* 可以根据需要添加更多样式 */
+h1,
+h2,
+h3 {
+  font-family: 'Georgia', serif; /* 为标题指定不同的字体 */
+}
+
+code {
+  font-family: 'Courier New', monospace; /* 为代码块指定字体 */
+}
