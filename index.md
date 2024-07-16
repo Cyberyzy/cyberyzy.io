@@ -26,7 +26,9 @@ Besides, I possess a strong aptitude for mathematics and statistics, particularl
 ## Links
 
 - Power system analysis course notes: [Power System Analysis](https://cyberyzy.github.io/PowerSystem/)
+- I built a forum for DEE students: [DEE Forum](https://cyberyzy.github.io/mathwiki/)
 
+  
 <!-- 从 Google Fonts 引入 Ubuntu Mono 字体 -->
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
 <style>
@@ -35,5 +37,4 @@ Besides, I possess a strong aptitude for mathematics and statistics, particularl
         font-family: 'Ubuntu Mono', monospace;
     }
 </style>
-- I built a forum for DEE students: [DEE Forum](https://cyberyzy.github.io/mathwiki/)
 
