@@ -1,4 +1,4 @@
-# Zheyuan Yang's Home Page
+# Eric Yang's Home Page
 
 - <img src="files/selfies.jpg" alt="selfie" style="float:right;zoom:15%;margin:100px 300px;"/>I am a senior undergraduate student at [Department of Electric Engineering at Tsinghua University](https://www.eea.tsinghua.edu.cn/)
 - Email: <a id="emailStyle" style="display:inline-block;" href="zy-yang21@mails.tsinghua.edu.cn">zy-yang21@mails.tsinghua.edu.cn</a>
