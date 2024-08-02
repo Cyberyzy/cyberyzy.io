@@ -13,7 +13,7 @@ Besides, I possess a strong aptitude for mathematics and statistics, particularl
 
 ## Slides
 
-- My presentation during my internship at Sichuan Energy Internet Research Insititude: [Slides](files/report.pdf).
+- My presentation during my internship at Sichuan Energy Internet Research Insititude: [Slides](files/Report.pdf).
   - Project: The reconfiguration of distribution system after meteorological disasters.
 
 ## Events
